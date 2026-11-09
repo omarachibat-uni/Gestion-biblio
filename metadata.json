@@ -1,0 +1,6 @@
+{
+  "name": "Bibliothèque Universitaire - USMBA",
+  "description": "Système complet de gestion de bibliothèque universitaire pour l'Université Sidi Mohamed Ben Abdellah : catalogue, gestion des étudiants, emprunts, retours, calcul automatique des retards, scanner QR code et import Excel.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
